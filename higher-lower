@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T00:28:43.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.2" etag="qxj01_3qbb6sl3lVgOEJ" type="github"><diagram id="0vpg0xKpIjYvm-vbOM-x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-22T00:32:33.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="J2i-kr9GPefAOe8IWO6c" version="14.2.2" type="github">
+  <diagram id="0vpg0xKpIjYvm-vbOM-x" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gJBVfg7qU1N4sm8DdgRZ-1" value="1. Import Art&lt;br&gt;&lt;div&gt;&lt;span&gt;2. import Dictionary&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Select Option A and output to the console&lt;/div&gt;&lt;div&gt;4. Get VS output to the console&lt;/div&gt;&lt;div&gt;5. Select option B and output to the console&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Ask the question A or B&lt;/div&gt;&lt;div&gt;7. If the Answer is right , get current B to A and select a new B&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Repeat as long as the answer is correct&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" width="340" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
